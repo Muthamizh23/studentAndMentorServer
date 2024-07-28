@@ -1,11 +1,10 @@
-# zen-assignment-web-dev-task-student-mentor
 
 <h5>Mentor and Student Assigning with Database API development</h5>
 <br>
-Heroku Url : https://eduhub-karthee.herokuapp.com/
+render Url : https://studentandmentorserver-1.onrender.com
 <br>
 <br>
-Link to FrontEnd : https://github.com/kar-thee/zen-assignment-web-dev-task-eduHub
+Link to FrontEnd : https://github.com/Muthamizh23/studentAndServerUI.git
 <br><br>
 <ul>
 TASK: 
@@ -13,7 +12,7 @@ TASK:
     
     POST METHOD
     Write API to create Mentor  -  
-    https://eduhub-karthee.herokuapp.com/mentor
+    https://studentandmentorserver-1.onrender.com/mentor
     
     
 </li>
@@ -21,7 +20,7 @@ TASK:
     
     POST METHOD
     Write API to create Student  - 
-     https://eduhub-karthee.herokuapp.com/student
+     https://studentandmentorserver-1.onrender.com/student
     
     
 </li>
@@ -29,7 +28,7 @@ TASK:
     
     GET METHOD
     Write API to read/get all Mentors  -  
-    https://eduhub-karthee.herokuapp.com/mentor
+    https://studentandmentorserver-1.onrender.com/mentor
     
     
 </li>
@@ -37,7 +36,7 @@ TASK:
     
     GET METHOD
     Write API to read/get all Students  - 
-     https://eduhub-karthee.herokuapp.com/student
+     https://studentandmentorserver-1.onrender.com/student
     
     
 </li>
@@ -47,7 +46,7 @@ TASK:
         Write API to Assign a student to Mentor
        1. Select one mentor and Add multiple Student 
         2.A student who has a mentor should not be shown in List
-     https://eduhub-karthee.herokuapp.com/assignmentor/newmentor
+     https://studentandmentorserver-1.onrender.com/assignmentor/newmentor
     
    
 </li>
@@ -58,14 +57,14 @@ TASK:
         
        1. Select One Student and Assign one Mentor
        
-     https://eduhub-karthee.herokuapp.com/assignmentor/modifymentor
+     https://studentandmentorserver-1.onrender.com/assignmentor/modifymentor
     
 </li>
 <li>
     
     GET METHOD
     Write API to show all students for a particular mentor
-     https://eduhub-karthee.herokuapp.com/mentor/:id
+     https://studentandmentorserver-1.onrender.com/mentor/:id
     
 </li>
 
